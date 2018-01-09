@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">田豆芽智慧工厂</string>
+    <string name="btn_name_aboutme">关于我</string>
+    <string name="btn_name_testtoast">测试Toast</string>
+    <string name="btn_name_hellopmp">访问HelloPMP网站</string>
+
+    <string name="menu_name_exit">退出</string>
+
+    <string name="msg_string_testtoask">这是一个Toast消息</string>
+
+    <string name="text_aboutme">这是田豆芽智慧工厂的第一个APP。</string>
+
+    <string name="tel_help_desk">tel:10086</string>
 </resources>
